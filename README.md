@@ -1,10 +1,8 @@
-scratch-gui modified for use in [TurboWarp](https://turbowarp.org/)
+[TurboWarp](https://turbowarp.org/) gui used for the blocdown tryit editor
 
 ## Setup
 
-See https://docs.turbowarp.org/development/getting-started to setup the complete TurboWarp environment.
-
-If you just want to play with the GUI then it's the same process as upstream scratch-gui.
+See https://docs.turbowarp.org/development/getting-started to setup the complete environment
 
 ## License
 
